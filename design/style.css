@@ -1,0 +1,119 @@
+*{
+    
+    background-color: rgb(23, 40, 70);
+
+}
+
+.nav{
+    margin: 0 auto;
+    padding:30px 30px;
+    overflow: hidden;
+
+}
+.text{
+    padding: 0 20px;
+    text-decoration: none;
+}
+.text h1 a{
+    
+    color: aliceblue;
+    text-decoration: none;
+    float: left;
+}
+.text img{
+    margin-right: 20px;
+    margin-top: 5px;
+    float: left;
+}
+
+.nav ul{
+    padding-left: 1000px;
+    list-style: none;
+}
+
+.nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    float: left;
+    padding: 10px 10px ;
+}
+.nav ul li a:hover{
+    color: rgb(166, 237, 23);
+    background: rgb(57, 22, 22);
+}
+
+.des{
+    width: 500px;
+    float: left;
+    margin: 100px;
+    padding: 20px;
+    border: 5px solid aliceblue;
+    color: azure;
+
+}
+.main img{
+    height: 450px;
+    width: 550px;
+    margin: 100px;
+    float: left;
+}
+#con{
+    margin-left: 700px ;
+    color: azure;
+}
+#em{
+    margin-left: 650px;
+    color: azure;
+}
+
+form{
+    border: 5px solid azure;
+    border-radius: 5px;
+}
+
+.frm{
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    color: azure;
+    
+}
+.frm input{
+    margin-top: 15px;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    border: 3px solid black;
+    border-radius: 5px;
+    background: antiquewhite;
+}
+table{
+    width: 500px;
+    padding-top: 100px;
+    margin:auto;
+}
+table tr th{
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+}
+table tr td{
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+}
+
+#src{
+    width: 200px;
+    margin-left: 650px;
+    border: 0;
+    text-align: center;
+
+}
+
+#src input{
+    border: 1px solid white;
+    margin: 5px;
+    background-color: antiquewhite;
+}
